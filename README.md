@@ -12,3 +12,7 @@ This repository contains the experimental results of LVPCGen, provided as supple
 Note that at this stage each approach has been run only once, so the reported numbers are preliminary. In the final setting, to reduce bias, each approach is run three times. A path is considered triggered if at least two runs reach the vulnerable function and satisfy the triggering condition.
 
 These results were newly produced for the rebuttal, and a more complete set of results will be confirmed in subsequent rounds of experiments.
+
+## Data Availability
+
+The full artifact is available on figshare: https://figshare.com/s/7a744927d45a245bac89
